@@ -11,9 +11,6 @@ This project is a simple ecommerce website built with React.js and Strapi. It al
 - Payment integration with Stripe
 - Backend API with Strapi CMS
 
-## Demo
-
-You can see a live demo of the project here: https://react-strapi-ecommerce.netlify.app/
 
 ## Installation
 

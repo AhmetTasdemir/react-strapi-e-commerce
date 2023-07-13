@@ -19,14 +19,6 @@ You can see a live demo of the project here: https://react-strapi-ecommerce.netl
 
 To run this project locally, you need to have Node.js and npm installed on your machine.
 
-### Frontend
-
-- Clone this repository: `git clone https://github.com/user/react-strapi-e-commerce.git`
-- Go to the frontend folder: `cd react-strapi-e-commerce/client`
-- Install the dependencies: `npm install`
-- Start the development server: `npm start`
-- Open http://localhost:3000 in your browser
-
 ### Backend
 
 - Go to the backend folder: `cd react-strapi-e-commerce/server`
@@ -37,3 +29,13 @@ To run this project locally, you need to have Node.js and npm installed on your 
 - Create some products and categories in the Strapi dashboard
 - Configure the Stripe plugin with your Stripe API keys
 - Configure the Roles and Permissions plugin to allow public access to the products and categories endpoints
+
+### Frontend
+
+- Clone this repository: `git clone https://github.com/user/react-strapi-e-commerce.git`
+- Go to the frontend folder: `cd react-strapi-e-commerce/client`
+- Install the dependencies: `npm install`
+- Start the development server: `npm start`
+- Open http://localhost:3000 in your browser
+
+
